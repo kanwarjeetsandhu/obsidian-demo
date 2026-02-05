@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "57e5c9d6e832b05d",
+    "type": "split",
+    "children": [
+      {
+        "id": "901dda487f380eb0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfc82c5d530c8640",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1 Projects/Holiday 2025/Utah National Parks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Utah National Parks"
+            }
+          }
+        ],
+        "stacked": true
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a57551a13b9317b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "993271d19a89b9b7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b7bda7f222e20782",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "f4c4ea5ec25b5ae9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "9553cccc4a866c62",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 245.5
+  },
+  "right": {
+    "id": "7b0c0f0f0b40b6a4",
+    "type": "split",
+    "children": [
+      {
+        "id": "e5710d096c81383b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "db801aa33924a764",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "1 Projects/Holiday 2025/Utah National Parks.md",
+                "collapseAll": true,
+                "extraContext": true,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Utah National Parks"
+            }
+          },
+          {
+            "id": "dc84ca4189fa6c99",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "1 Projects/Holiday 2025/Utah National Parks.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Utah National Parks"
+            }
+          },
+          {
+            "id": "9a0ac084a82a13b6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9de228bfb9b79b01",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "866c070b52364a23",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "1 Projects/Holiday 2025/Utah National Parks.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Utah National Parks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "dfc82c5d530c8640",
+  "lastOpenFiles": [
+    "1 Projects/Holiday 2025/Trip to Colombia.md",
+    "0 Inbox/Planning Holiday 2025.md",
+    "0 Inbox/Notes on Obsidian.md",
+    "1 Projects/Holiday 2025/Utah National Parks.md",
+    "2 Areas/Tech Blog/How to transition from DevOps to Quantum Computing.md",
+    "2 Areas/Tech Blog",
+    "3 Resources/Jobs/DevOp Jobs.md",
+    "3 Resources/Jobs/Jobs.md",
+    "3 Resources/Jobs",
+    "1 Projects/Holiday 2025",
+    "PARA.md",
+    "My Test Note.md",
+    "4 Archive",
+    "3 Resources",
+    "2 Areas",
+    "1 Projects",
+    "0 Inbox",
+    "create a link.md",
+    "Welcome.md",
+    "2026-01-29.md",
+    "Untitled.canvas"
+  ]
+}
