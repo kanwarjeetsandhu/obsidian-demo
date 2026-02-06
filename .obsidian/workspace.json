@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dfc82c5d530c8640",
+            "id": "15d0c335b9ac2189",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "0 Inbox/Git Test.md",
+                "file": "1 Projects/Holiday 2025/Trip To San Diego.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Git Test"
+              "title": "Trip To San Diego"
             }
           }
         ],
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "0 Inbox/Git Test.md",
+                "file": "1 Projects/Holiday 2025/Trip To San Diego.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Git Test"
+              "title": "Backlinks for Trip To San Diego"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "0 Inbox/Git Test.md",
+                "file": "1 Projects/Holiday 2025/Trip To San Diego.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Git Test"
+              "title": "Outgoing links from Trip To San Diego"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "0 Inbox/Git Test.md",
+                "file": "1 Projects/Holiday 2025/Trip To San Diego.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Git Test"
+              "title": "Outline of Trip To San Diego"
             }
           }
         ]
@@ -182,13 +182,21 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "git-integration:Open git menu": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "dfc82c5d530c8640",
+  "active": "15d0c335b9ac2189",
   "lastOpenFiles": [
-    "0 Inbox/Hello World.md",
+    "0 Inbox/Untitled.md",
+    "1 Projects/Holiday 2025/Trip To San Diego.md",
+    "0 Inbox/Untitled 1.md",
+    "0 Inbox/Hello World 2.md",
+    "Templates/Zettel Template.md",
     "0 Inbox/Git Test.md",
+    "Templates",
+    "0 Inbox/Hello World.md",
     "0 Inbox/neovimnote.md",
     "1 Projects/Holiday 2025/Planning Holiday 2025.md",
     "1 Projects/Holiday 2025/Utah National Parks.md",
