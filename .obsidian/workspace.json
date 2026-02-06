@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1 Projects/Holiday 2025/Utah National Parks.md",
+                "file": "0 Inbox/Git Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Utah National Parks"
+              "title": "Git Test"
             }
           }
         ],
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1 Projects/Holiday 2025/Utah National Parks.md",
+                "file": "0 Inbox/Git Test.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -105,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Utah National Parks"
+              "title": "Backlinks for Git Test"
             }
           },
           {
@@ -114,12 +114,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "1 Projects/Holiday 2025/Utah National Parks.md",
+                "file": "0 Inbox/Git Test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Utah National Parks"
+              "title": "Outgoing links from Git Test"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1 Projects/Holiday 2025/Utah National Parks.md",
+                "file": "0 Inbox/Git Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Utah National Parks"
+              "title": "Outline of Git Test"
             }
           }
         ]
@@ -181,15 +181,19 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "dfc82c5d530c8640",
   "lastOpenFiles": [
-    "1 Projects/Holiday 2025/Trip to Colombia.md",
-    "0 Inbox/Planning Holiday 2025.md",
-    "0 Inbox/Notes on Obsidian.md",
+    "0 Inbox/Hello World.md",
+    "0 Inbox/Git Test.md",
+    "0 Inbox/neovimnote.md",
+    "1 Projects/Holiday 2025/Planning Holiday 2025.md",
     "1 Projects/Holiday 2025/Utah National Parks.md",
+    "1 Projects/Holiday 2025/Trip to Colombia.md",
+    "0 Inbox/Notes on Obsidian.md",
     "2 Areas/Tech Blog/How to transition from DevOps to Quantum Computing.md",
     "2 Areas/Tech Blog",
     "3 Resources/Jobs/DevOp Jobs.md",
