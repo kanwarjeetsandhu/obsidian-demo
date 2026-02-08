@@ -20,21 +20,8 @@
               "icon": "lucide-file",
               "title": "Trip To San Diego"
             }
-          },
-          {
-            "id": "f8f56e90fc087cda",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.11.7"
-              },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
-            }
           }
         ],
-        "currentTab": 1,
         "stacked": true
       }
     ],
@@ -199,7 +186,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "f8f56e90fc087cda",
+  "active": "15d0c335b9ac2189",
   "lastOpenFiles": [
     "0 Inbox/Untitled.md",
     "1 Projects/Holiday 2025/Trip To San Diego.md",
